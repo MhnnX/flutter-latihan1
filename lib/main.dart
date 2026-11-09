@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'remake.dart';
 
 void main() {
-  runApp(const RemakeApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
